@@ -4,7 +4,7 @@ the complete code for all algorithms. Each method is preceded by a markdown cell
 with the method's name for easy navigation.
 
  Setup Instructions:  
- 1. Install Required Libraries 
+ 1. Install Required Libraries   
  Run the following command to install the necessary Python packages:  
  pip install nibabel numpy matplotlib scipy scikit-image pywavelets
 
