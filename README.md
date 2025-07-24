@@ -14,7 +14,7 @@ with the method's name for easy navigation.
  Ensure you have a 3D MRI file in .nii, .nii.gz, or .mnc.gz format.
  Sample data from BrainWeb is already included in the project folder.
 
- 3. Launch the Notebook 
+ 3. Launch the Notebook   
  Open main.ipynb using Jupyter Notebook.
 
  4. Set File Paths  
